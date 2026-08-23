@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sem-s-polki.github.io/sem-s-polki/sitemap.xml
